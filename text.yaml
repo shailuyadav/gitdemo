@@ -1,0 +1,7 @@
+description: |
+  This is a multiline
+  string with newlines.
+
+summary: >
+  This is a long string
+  that wraps into one line.
